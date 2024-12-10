@@ -123,7 +123,7 @@ end)
 entity:Run()
 Wait(12)
 ---====== Load achievement giver ======---
-local achievementGiver = loadstring(game:HttpGet("https://raw.githubusercontent.com/Idk-lol2/a-60aa/refs/heads/main/--%20Services.txt"))()
+local achievementGiver = loadstring(game:HttpGet("https://raw.githubusercontent.com/Tupoi-Scripts/Tupoi-Scripts/refs/heads/main/SoulAchievement.lua"))()
 
 ---====== Display achievement ======---
 achievementGiver({
